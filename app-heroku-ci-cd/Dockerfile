@@ -1,6 +1,6 @@
 FROM node:alpine
 
-WORKDIR /app
+WORKDIR /app-heroku-ci-cd
 
 COPY package.json .
 
